@@ -143,7 +143,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('/images/office-table.jpg');
+    url('./images/office-table.jpg');
 
   width: 100%;
   height: 100%;
